@@ -5,7 +5,6 @@
 
 ![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png) 
 
-&#169; licenza CC BY
 
 # Cirospat MKDocs-style 
 Modello per la creazione di un progetto di documentazione online, creato con [MKDocs](https://squidfunk.github.io/mkdocs-material/). Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio **MarkDown** (`.MD`).
@@ -15,6 +14,8 @@ Lavoro realizzato con il prezioso supporto tecnico di [@gbvitrano](https://githu
 
 ## Compilazione con Github pages
 [GitHub ghpages](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions) 
+
+Questo progetto si basa sulla compilazione delle pagine sulal piattaforma Github pages (gh-pages) e non ha bisogno di Read the Docs. 
 
 
 ## Link al progetto creato su pagine di Github
